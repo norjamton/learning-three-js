@@ -16,3 +16,11 @@ This repo contains:
 - three-js-projects (me follwoing along with tutorals and attempts at 3D dog environemnt for tom-clover website)
 -- highest number is most recent version 
 -- 3D dog scans
+
+
+## Related files
+- Firebase project: three-js-vite-test - https://console.firebase.google.com/project/three-js-vite-test/overview
+-- I believe one of the projects within this repo tried setting an environment with Vite and Firebase.
+
+- tom-clover repo - https://github.com/norjamton/tom-clover
+-- the project I was trying to use three-js in
